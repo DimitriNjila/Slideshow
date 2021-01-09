@@ -1,0 +1,2 @@
+# Slideshow
+Simple slideshow page
